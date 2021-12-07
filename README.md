@@ -1,4 +1,4 @@
-<h1 align="left">Hello!</h1>
+<h1 align="left">Hello! 👋</h1>
 <h3 align="left">I'm Daniel and I'm starting work as a Intern .NET Developer soon. I'm from poland and living in Warsaw. I focus on .Net/SQL knowledge, particuraly in ASP.NET</h3>
 
 - 🔭 I’m currently working on [LibraryMVC](https://github.com/DanielSzopa/Library)
