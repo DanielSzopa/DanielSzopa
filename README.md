@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TutorWebApi](https://github.com/DanielSzopa/TutorWebApi)
 
-- 🌱 I’m currently learning **C#, ASP.NET, SQL**
+- 🌱 I’m currently learning **C#, ASP.NET, SQL, REST Api**
 
 - 📫You can find me on [Linkedin](https://www.linkedin.com/in/daniel-szopa-ba0a77213/)
 
