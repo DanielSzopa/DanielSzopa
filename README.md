@@ -7,9 +7,9 @@
 - 📫You can find me on [Linkedin](https://www.linkedin.com/in/daniel-szopa-ba0a77213/)
 
 - 📄My experience: 
-- Currently Junior .NET Developer at [FlexDev](https://www.flexdevgroup.com/).
-- Intern .NET Developer at [Prospeo](https://prospeo.com.pl/).
-- It Specialist in ServiceDesk Department at [Optima Logistics Group](https://www.optimalg.com/).
+  - Currently Junior .NET Developer at [FlexDev](https://www.flexdevgroup.com/).
+  - Intern .NET Developer at [Prospeo](https://prospeo.com.pl/).
+  - It Specialist in ServiceDesk Department at [Optima Logistics Group](https://www.optimalg.com/).
 
 
 
