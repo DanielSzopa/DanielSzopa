@@ -1,13 +1,15 @@
 <h1 align="left">Hello! 👋</h1>
-<h3 align="left">I'm Daniel and I work as a Intern .NET Developer. I'm from poland and living in Warsaw. I focus on .Net/SQL knowledge, particuraly ASP.NET</h3>
+<h3 align="left">I'm Daniel and I work as a Junior .NET Developer. I'm from poland and living in Warsaw. I focus on .Net/SQL knowledge, particuraly ASP.NET</h3>
 
-- 🔭 I’m currently working on [TutorWebApi](https://github.com/DanielSzopa/TutorWebApi)
 
 - 🌱 I’m currently learning **C#, ASP.NET, SQL, REST Api**
 
 - 📫You can find me on [Linkedin](https://www.linkedin.com/in/daniel-szopa-ba0a77213/)
 
-- 📄My experience: I worked as It Specialist in ServiceDesk Department for Logistic Company and currently I work as Intern .NET Developer at [Prospeo](https://prospeo.com.pl/).
+- 📄My experience: 
+- It Specialist in ServiceDesk Department at [Optima Logistics Group](https://www.optimalg.com/).
+- Intern .NET Developer at [Prospeo](https://prospeo.com.pl/).
+- Currently Junior .NET Developer at [FlexDev](https://www.flexdevgroup.com/).
 
 <p align="left">
 </p>
