@@ -1,8 +1,8 @@
 <h1 align="left">Hello! 👋</h1>
-<h3 align="left">I'm Daniel and I work as a Mid .NET Developer. I'm from Poland and living in Warsaw. I focus on Web Development and .Net knowledge, particuraly ASP.NET.</h3>
+<h3 align="left">I'm Daniel and I work as a Mid .NET Developer at a [Next Technology](https://tech.next.pl/) for an international client [Next](https://www.next.co.uk/). I'm from Poland and living in Warsaw. I focus on Web Development and .Net knowledge, particuraly ASP.NET.</h3>
 
 
-- 🌱 I’m currently learning **C#, ASP.NET, SQL, REST Api**
+- 🌱 I’m currently learning **C#, ASP.NET, Design Patterns, Software architecture, Azure**
 
 - 📫You can find me on [Linkedin](https://www.linkedin.com/in/daniel-szopa-ba0a77213/)
 
