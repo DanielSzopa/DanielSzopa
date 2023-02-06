@@ -1,5 +1,5 @@
 <h1 align="left">Hello! 👋</h1>
-<h3 align="left">I'm Daniel and I work as a Mid .NET Developer. I'm from Poland and living in Warsaw. I focus on Web Development and .Net knowledge, particuraly ASP.NET</h3>
+<h3 align="left">I'm Daniel and I work as a Mid .NET Developer. I'm from Poland and living in Warsaw. I focus on Web Development and .Net knowledge, particuraly ASP.NET.</h3>
 
 
 - 🌱 I’m currently learning **C#, ASP.NET, SQL, REST Api**
