@@ -7,7 +7,7 @@
 - 📫You can find me on [Linkedin](https://www.linkedin.com/in/daniel-szopa-ba0a77213/)
 
 - 📄The project which I want to show you:
-  -  [MyAccount](https://github.com/DanielSzopa/MyAccount).
+  -  [MyAccount](https://github.com/DanielSzopa/MyAccount)
 
 - 📄My experiences: 
   - [Currently] Mid .NET Developer at [Next Technology](https://tech.next.pl/).
