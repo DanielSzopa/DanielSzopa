@@ -1,12 +1,12 @@
 <h1 align="left">Hello! 👋</h1>
-<h3 align="left">I'm Daniel and I work as a Mid .NET Developer at a <a href="https://tech.next.pl/">Next Technology</a> for an international client [Next](https://www.next.co.uk/). I'm from Poland and living in Warsaw. I focus on Web Development and .Net knowledge, particuraly ASP.NET.</h3>
+<h3 align="left">I'm Daniel and I work as a Mid .NET Developer at a <a href="https://tech.next.pl/">Next Technology</a> for an international client <a href="https://www.next.co.uk">Next</a>. I'm from Poland and living in Warsaw. I focus on Web Development and .Net knowledge, particuraly ASP.NET.</h3>
 
 
 - 🌱 I’m currently learning **C#, ASP.NET, Design Patterns, Software architecture, Azure**
 
 - 📫You can find me on [Linkedin](https://www.linkedin.com/in/daniel-szopa-ba0a77213/)
 
-- 📄My experience: 
+- 📄My experiences: 
   - [Currently] Mid .NET Developer at [Next Technology](https://tech.next.pl/).
   - Junior .NET Developer at [Next Technology](https://tech.next.pl/).
   - Intern .NET Developer at [Prospeo](https://prospeo.com.pl/).
