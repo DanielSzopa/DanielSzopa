@@ -6,8 +6,9 @@
 
 - 📫You can find me on [Linkedin](https://www.linkedin.com/in/daniel-szopa-ba0a77213/)
 
-- 📄The project which I want to show you:
-  -  [MyAccount](https://github.com/DanielSzopa/MyAccount) - Web api for user management
+- 📄Projects which I want to show you:
+  -  [YourTutor](https://github.com/DanielSzopa/YourTutor) - Application for searching course offers, Asp .Net Core MVC, EF Core, Clean Architecture 
+  -  [IdentityMicroservices](https://github.com/DanielSzopa/IdentityMicroservices) - Simple Microservices for client notifications, ServiceBus, Azure Functions, SendGrid
 
 - 📄My experiences: 
   - [Currently] Mid .NET Developer at [Next Technology](https://tech.next.pl/).
